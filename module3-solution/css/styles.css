@@ -19,5 +19,8 @@ h2, h3{
 }
 .section-background-color{
 background-color:#EfEfEf;
-
+margin:20px;
+}
+p, h3{
+  padding:10px;
 }

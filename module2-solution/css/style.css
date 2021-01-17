@@ -37,6 +37,7 @@ p{
 section{
   float: left;
   position: relative;
+  height: 200px;
 }
  
 /*Desctop Version*/
